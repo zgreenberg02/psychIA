@@ -14,7 +14,6 @@ public class Button {
   private String text;
   private color textColor;
   private int textSize;
-  private boolean released;
 
   /**
    * Creates a button
